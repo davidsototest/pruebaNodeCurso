@@ -1,0 +1,15 @@
+# Archivos temporales
+*.log
+*.tmp
+*.swp
+*.DS_Store
+
+# Archivos binarios
+*.exe
+*.dll
+*.so
+*.jpg
+*.png
+*.gif
+
+node_modules/
